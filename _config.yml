@@ -29,7 +29,7 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               현직 데이터 사이언티스트의 tech-log (test)
+tagline:               현직 데이터 사이언티스트의 tech-log
 
 # A list of keywords for your blog
 keywords:              [datascientist,python]
@@ -360,11 +360,11 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
-# social:
-#   name:                <firstname> <lastname>
-#   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/hyuckjinkim
+social:
+  name:                Hyuckjin Kim
+  links:
+    - https://github.com/hyuckjinkim
+    - https://data-scientist-techlog.tistory.com/
 
 
 # Plugin Configs
