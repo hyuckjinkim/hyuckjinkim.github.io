@@ -5,10 +5,10 @@ title:  "서브메뉴 테스트 1"
 date:   2023-12-09 04:00:00 +0900
 categories: 
   - example
-  - submenu-example-2
+  - submenu-example-1
 description: >
   "서브메뉴 테스트 1"
 ---
 
-# 테스트
+# 테스트1
 테스트 중
