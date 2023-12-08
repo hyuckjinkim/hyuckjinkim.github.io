@@ -51,8 +51,15 @@ author:
 
 # Add links to the sidebar.
 menu:
+  - title:             Home
+    url:               /
   - title:             Example
     url:               /example/
+    submenu:
+        - url:         Example 1
+        - title:       /example/example1/
+        - url:         Example 2
+        - title:       /example/example2/
   - title:             Documentation
     url:               /docs/
   - title:             About
