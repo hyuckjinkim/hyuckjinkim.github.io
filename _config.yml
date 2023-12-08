@@ -56,10 +56,10 @@ menu:
   - title:             Example
     url:               /example/
     submenu:
-        - url:         Example 1
-        - title:       /example/example1/
-        - url:         Example 2
-        - title:       /example/example2/
+        - url:         Submenu Example 1
+        - title:       /submenu-example-1/
+        - url:         Submenu Example 2
+        - title:       /submenu-example-2/
   - title:             Documentation
     url:               /docs/
   - title:             About
