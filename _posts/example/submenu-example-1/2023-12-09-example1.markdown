@@ -1,13 +1,13 @@
 ---
 layout: post
-<!-- related_posts: -->
 title:  "서브메뉴 테스트 1"
-date:   2023-12-09 04:00:00 +0900
+description: >
+  "서브메뉴 테스트 1"
+related_posts:
+
 categories: 
   - example
   - submenu-example-1
-description: >
-  "서브메뉴 테스트 1"
 ---
 
 # 테스트1

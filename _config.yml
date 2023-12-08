@@ -56,9 +56,9 @@ menu:
   - title:             Example
     url:               /example/
     submenu:
-        - title:       Submenu Example 1
+        - title:       Submenu 1
           url:         /submenu-example-1/
-        - title:       Submenu Example 2
+        - title:       Submenu 2
           url:         /submenu-example-2/
   - title:             Documentation
     url:               /docs/
